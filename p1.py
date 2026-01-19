@@ -20,3 +20,9 @@ print(series.loc["b"])#loc =location by label
 #we can access elements by its integer location 
 print("we are accessing the 1st element the the above code we changed the indexs as ab,c but we can accesses these elements by iloc")
 print(series.iloc[0])   
+
+
+
+#Link for accessing my notes
+#https://noidainstituteofengtech-my.sharepoint.com/:o:/g/personal/0231csiot076_niet_co_in/IgBwA4aX4aDlQaMGjaFFyjWVAbhRUYBExq0O0DQT_CDUOno?e=5NbgAV
+

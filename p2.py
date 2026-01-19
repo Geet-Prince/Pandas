@@ -7,3 +7,11 @@ print(xyz)
 print(xyz[xyz<=100])
 #this above code will prnt integers whose value is less that 100
 print("this will present the data whose value is greater than 100",xyz[xyz>=100])
+
+
+
+
+
+#Link for accessing my notes
+#https://noidainstituteofengtech-my.sharepoint.com/:o:/g/personal/0231csiot076_niet_co_in/IgBwA4aX4aDlQaMGjaFFyjWVAbhRUYBExq0O0DQT_CDUOno?e=5NbgAV
+

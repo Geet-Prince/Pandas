@@ -18,3 +18,17 @@ print("data set is ",zxc)
 #Suppose i want the value greater than 2000
 
 print(zxc[zxc>=2000],"this will give me value which are greater than 2000")
+
+
+
+
+
+
+
+
+
+
+
+#Link for accessing my notes
+#https://noidainstituteofengtech-my.sharepoint.com/:o:/g/personal/0231csiot076_niet_co_in/IgBwA4aX4aDlQaMGjaFFyjWVAbhRUYBExq0O0DQT_CDUOno?e=5NbgAV
+
